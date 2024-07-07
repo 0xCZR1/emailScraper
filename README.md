@@ -1,5 +1,5 @@
 # 
- # 🕷️ emailScraper with Scrapy 🕸️
+<h1 align="center">🕷️ Email Spider 🕸️</h1>
 
 <div align="center">
 
