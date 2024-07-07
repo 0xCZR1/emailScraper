@@ -14,6 +14,6 @@
 Clone the repo and crawl those emails!
 
 ```bash
-git clone https://github.com/yourusername/uvt-email-spider.git
-cd uvt-email-spider
+git clone https://github.com/0xCZR1/emailScraper
+cd emailScraper
 scrapy crawl email_spider
