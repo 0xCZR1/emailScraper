@@ -13,7 +13,8 @@
 
 Clone the repo and crawl those emails!
 
-***DISCLAIMER: This tool has been created for educational purposes. Even though OSINT tools are not directly prohibited by law, take caution and always use it with morality!
+***DISCLAIMER: This tool has been created for educational purposes.
+Even though OSINT tools are not directly prohibited by law, take caution and always use it with morality!
 *** I am not taking responsability/responsible for any action that someone using the tool.
 
 ```bash
