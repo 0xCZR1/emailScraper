@@ -16,7 +16,7 @@ Clone the repo and crawl those emails!
 ***DISCLAIMER: This tool has been created for educational purposes.
 Even though OSINT tools are not directly prohibited by law, take caution and always use it with morality!
 
-*** I am not taking responsability/I am not responsible for what you are using the tool.
+*** I am not taking responsability/I am not responsible for the purpose for which you will use the tool.
 
 ```bash
 git clone https://github.com/0xCZR1/emailScraper
