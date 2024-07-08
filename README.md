@@ -20,7 +20,8 @@ scrapy crawl email_spider
 
 
 🕵️ What is this?
-This cool spider crawls the website and harvests unique email addresses. It's like a digital treasure hunt! 🏴‍☠️
+This cool spider crawls the website and harvests unique email addresses. It's like a digital treasure
+ hunt! 🏴‍☠️
 🛠️ Features
 
 🔍 Crawls the entire domain
