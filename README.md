@@ -11,7 +11,7 @@
 
 ## 🚀 Quick Start
 
-Clone the repo and crawl those emails!
+This is for educational purposes only.
 
 ***DISCLAIMER: This tool has been created for educational purposes.
 Even though OSINT tools are not directly prohibited by law, take caution and always use it with morality!
@@ -43,34 +43,5 @@ This cool spider crawls the website and harvests unique email addresses. It's li
 💾 Stores unique emails
 
 
-
-# 🕷️ UVT Email Spider Results
-
-Below are just a few of the unique emails harvested from the UVT website:
-
-```csv
-email
-secretariat.uvt@e-uvt.ro
-horea.bacanu@e-uvt.ro
-support@e-uvt.ro
-cabinetrector@e-uvt.ro
-flavia.barna@e-uvt.ro
-madalin.bunoiu@e-uvt.ro
-valy.ceia@e-uvt.ro
-cosmin.enache@e-uvt.ro
-irina.macsinga@e-uvt.ro
-alexandru.popa@e-uvt.ro
-florin.sava@e-uvt.ro
-laurentiu.georgescu@e-uvt.ro
-catalina.ancuta@e-uvt.ro
-anton.trailescu@e-uvt.ro
-presedinte.senat@e-uvt.ro
-vicepresedinte.senat@e-uvt.ro
-nicoleta.moldovan@e-uvt.ro
-secretariat.senat@e-uvt.ro
-sorina.torzan@e-uvt.ro
-international@e-uvt.ro
-carmen.babaita@e-uvt.ro
-dragana.pansulschi@e-uvt.ro
 
 
